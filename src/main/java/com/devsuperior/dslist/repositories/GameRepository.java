@@ -7,3 +7,6 @@ import com.devsuperior.dslist.entities.Game;
 public interface GameRepository extends JpaRepository<Game, Long>{
 
 }
+
+
+//JPA repository é um componete que faz todas as operações 
